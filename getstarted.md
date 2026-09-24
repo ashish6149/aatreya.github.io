@@ -20,7 +20,7 @@ Click on the __*Fork*__ button at the top right corner of this page. Forking mea
 
 </div>
 
-<div class="gs-section-01" markdown="1">
+<div class="gs-section-02" markdown="1">
  
 ### 2. Rename the repository to `YOURUSERNAME.github.io`
 
