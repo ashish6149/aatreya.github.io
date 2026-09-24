@@ -15,7 +15,8 @@ description: Project to practice web development
 author: Ashish Atreya
 
 #Define site URL 
-url: https://ashish6149.github.io/aatreya.github.io/
+url: https://ashish6149.github.io
+baseurl: /aatreya.github.io/
 
 # --- List of links in the navigation bar --- #
 
